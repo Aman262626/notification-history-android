@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<menu xmlns:android='http://schemas.android.com/apk/res/android'>
+    <item
+        android:id='@+id/action_ignore_ongoing'
+        android:checkable='true'
+        android:title='Ignore ongoing (music/download)' />
+    <item
+        android:id='@+id/action_export'
+        android:title='Export CSV' />
+    <item
+        android:id='@+id/action_clear'
+        android:title='Clear all history' />
+</menu>
